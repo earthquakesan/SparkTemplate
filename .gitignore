@@ -1,0 +1,16 @@
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+sparktemplate/dist/*
+sparktemplate/target/
+sparktemplate/lib_managed/
+sparktemplate/src_managed/
+sparktemplate/project/boot/
+sparktemplate/project/plugins/project/
+sparktemplate/project/target/
+sparktemplate/.history
+sparktemplate/.cache
+sparktemplate/.lib/
+sparktemplate/example/
+
+*.class
