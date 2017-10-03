@@ -14,3 +14,6 @@ sparktemplate/.lib/
 sparktemplate/example/
 
 *.class
+*.cache
+
+data/
